@@ -15,5 +15,6 @@ The library provides two functions
 
 File ``try_interp.py`` has a ready to use example of the interpolation is performed.
 
+### Contact me
 For more information, you can contact me at [stefanoschmidt1995@gmail.com](mailto:stefanoschmidt1995@gmail.com)
 
